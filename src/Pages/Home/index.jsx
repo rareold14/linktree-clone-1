@@ -3,7 +3,6 @@ import photo from "../../Assets/fotinho.jpg"
 import Github from "../../Assets/Github.png"
 import Instagram from "../../Assets/Instagram.png"
 import Twitter from "../../Assets/Twitter.png"
-import Pinterest from "../../Assets/Pinterest.png"
 import { Card } from "../../Components/Card/card";
 
 
