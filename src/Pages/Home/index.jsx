@@ -28,13 +28,6 @@ export function Home(){
             title: 'Twitter',
             url:'https://twitter.com/Dragon15J',
             description: 'Está empoeirado, mas uma vez a cada passagem do Cometa Halley eu entro lá, eu juro.'
-        },
-
-        {
-            img: Pinterest,
-            title: 'Pinterest',
-            url: 'https://br.pinterest.com/rareold14/',
-            description: 'Terra onde viajo para inspirar minhas peripécias de cada século.'
         }
 
     ];
